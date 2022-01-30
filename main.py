@@ -6,5 +6,5 @@ doc = fitz.open(path)
 
 for page in doc:  # iterate the document pages
     textpage = page.get_textpage()
-    text = textpage.extractWORDS()  # get plain text (is in UTF-8)
+    text = textpage.extractBLOCKS()  # get plain text (is in UTF-8)
     print(text)  # write text of page
