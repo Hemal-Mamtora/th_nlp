@@ -1,0 +1,116 @@
+TAX INVOICE
+VTIRLUAT.COMPANYIND
+Virtual Addr
+255.0.0.0, India
+Pr
+Fax:
+CIN: A100024A1710ALB001995
+PAN : AAABB9ISS0A
+CONSUMER PRODUCT DIVISION
+GST Reg No
+17ABCDEFI2Z3GXYZ
+Ref No / Date
+PO1234567 / 1.7.2017
+GST Inv No/ Date
+11416603306 / 03.01.2018
+Transporter Name
+Order No/ Date
+1234567 / 1.7.2017
+Vehicle No / LR No
+Payment Terms
+Z030 30 Days from Invoice Date
+Way Bill No
+Due Date
+02.02.2018
+Sales Type
+E COM Sales
+Billing Details
+11420)
+Shipping Details
+Name
+Reciever CompanyInd
+Name
+Reciever CompanyInd
+Address
+Reciever CompanyInd
+Address
+Reciever Companylud
+111000, India
+111000, India
+State
+09-Uttar Pradesh
+State
+09-Uttar Pradesh
+GSTIN/Unique ID
+O7AABBC8888G1L AZT
+GSTIN/Unique ID
+O7AABBC8888G1AZI1
+PAN
+ABBCC9098G
+Material
+Description
+HSN
+Qty
+Unit Price
+Total
+Discount
+Taxable Value
+IGST
+%
+Amt
+512167
+Dummy product for evaluation
+75647000
+12.066
+6,291.00
+99,492.00
+0.00
+99,492.00
+iB
+17,908.56
+512168
+Dummy product for evaluation
+75647000
+3.000
+9,286.00
+27,858 00
+o.oc
+27,858.90
+18
+5,014.44
+§12425
+Dummy product for evaluation
+73647000
+3.000
+3,815.00
+11,445.00
+0.00
+12,445.00
+18
+2,060.10
+Freight
+Insurance
+Packing & Forwarding Charges
+Totals
+19.000
+138,795.00
+0.00
+138,795.00
+24,983.10
+Total Invoice Value ( In Figure )
+163,778.00
+INK
+Total Invoice Value (In Words )
+ONE T.AKH SIXTY
+f
+THREE THOUSANL SEVEN HUNURFED SEVENTY EIGHT
+RUPEES
+No Of packaces : iff
+PO Numher : PO1234567
+E & O.E.
+Checked By
+AUTHORISED SIGNATORY
+"Por
+Terms and Conditions please read Overleaf
+Page 1 of 1
+

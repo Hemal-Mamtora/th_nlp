@@ -1,0 +1,35 @@
+"$ID. 0
+","Test Customer.
+1234 Main Street
+Ashland, 41101
+"
+"INVOICE NO. 11083
+","Account2 C1006
+"
+"DATE 03-14-2008
+","Due By 08-31-2008
+Test Import Name - Description Goes Here
+"
+"ANINVOICE NOTE CAN GO HERE. MULTI-LINE AND EVEN MULTIPAGE NOTES ARE SUPPORTED.
+","Subtoil
+Toul
+Paymenis:
+Balance Due
+"
+
+
+"CODE
+","DESCRIPTION
+","QTY
+","PRICE
+","LINE TOTAL
+",,,,,
+"SKU1222
+","Test Import Name - Description Goes Here
+","1
+","$10.00,
+","$10.00,
+"
+,,,,
+,,,,
+,,,,

@@ -1,0 +1,107 @@
+Vi
+‘sno
+of
+ay
+demo Com
+Phone : 111-222-3333
+232 vain
+noany:
+Street
+E-Mail: 393-414.4444
+Asvanc, ve
+02
+Web: http /Awww.ksoftware net
+oO
+$id. 0
+Test Customer.
+Test Customer.
+1234 Main Street:
+1234 Main Street
+Ashland, KY 41101
+Ashland, 41101
+Invoice No. 11083
+Date 03-14-2008
+PONo. PO1234
+Account2 C1006
+Due By 08-31-2008
+Tenus None
+Sales Rep SalesPersont
+Code
+Description
+QTy
+Price
+Line Total
+SKU1222
+Test Import Name - Description Goes Here
+1
+$10.00,
+$10.00,
+Labor - Example labor item. Quantity is number of hours:
+1.45
+9100.00
+9150.00
+spent, price is hourly rate. Quantity accepts decimal values.
+Aninvoice note can go here. Multi-line and even multipage notes are supported.
+Subtoil
+9160.00
+Toul
+S170.78
+Paymenis:
+(90.00
+Balance Due
+S170.78
+An invoice footer can go here
+Vi
+‘sno
+of
+ay
+demo Com
+Phone : 111-222-3333
+232 vain
+noany:
+Street
+E-Mail: 393-414.4444
+Asvanc, ve
+02
+Web: http /Awww.ksoftware net
+oO
+$id. 0
+Test Customer.
+Test Customer.
+1234 Main Street:
+1234 Main Street
+Ashland, KY 41101
+Ashland, 41101
+Invoice No. 11083
+Date 03-14-2008
+PONo. PO1234
+Account2 C1006
+Due By 08-31-2008
+Tenus None
+Sales Rep SalesPersont
+Code
+Description
+QTy
+Price
+Line Total
+SKU1222
+Test Import Name - Description Goes Here
+1
+$10.00,
+$10.00,
+Labor - Example labor item. Quantity is number of hours:
+1.45
+9100.00
+9150.00
+spent, price is hourly rate. Quantity accepts decimal values.
+Aninvoice note can go here. Multi-line and even multipage notes are supported.
+Subtoil
+9160.00
+Toul
+S170.78
+Paymenis:
+(90.00
+Balance Due
+S170.78
+An invoice footer can go here
+

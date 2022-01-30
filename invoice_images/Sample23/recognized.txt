@@ -1,0 +1,62 @@
+Tax Invoice
+Original For Receinient
+Billed To
+Billed By
+GST INV No. :-
+RECIEVER COMPANYIND
+VIRTUALCOMPANYIND
+Date Time
+01.07.2017
+RECIEVER COMPANYIND
+VIRTUALADDR, 255.0.0.0,
+Transporter
+111000, INDIA
+INDIA
+Vehicle No
+LRNo
+EWayBill No
+Order / P] No
+1234567
+STATE :FAMIL NADU ST CD -33
+Order Id/NP No
+GSTIN :O7AABBC8888G1AZ1
+OurGSTIN. :- 17ABCDEF123GXYZ
+Our Ref No
+PAN Ne ABBCCS9O98G
+Our PAN No. :- AAABB99S0A
+Yr
+Cont Person
+OurCINNo :- At00024A1710ALB001995
+Cust. PO NO. :- PO1284567
+Delivery at :- RECIEVER COMPANYIND
+RECIEVER COMPANYIND , 111000, INDIA
+Product / Color Code
+HSN Cade
+Product Description
+UOM
+Qty
+Rate
+Amount
+ABC12345
+94038900
+Dummy product for evaluation
+NOS
+1
+3797,00
+3797.00
+No of Packets
+SubTotal
+6
+2379
+Other Charges:
+0.00
+GST SALE IGST 18 PERCENT
+18
+4283
+TOTAL(R/O}
+6662
+Amount : Rupecs Six Thousand Six Hundred And Sixty Two
+‘Certified that the particulars given above are True
++
+and Correct
+
