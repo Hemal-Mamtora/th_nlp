@@ -118,8 +118,8 @@ def getAngle(img):
 	return rotateAngle/2
 
    
-filename = '/home/hemal/th/nlp/invoice-extractor/invoice_images/Sample/advert_invoice.jpg'
-img = cv2.imread(filename)
-angle = getAngle(img)
-rotatedImg = rotate_image(img, -angle)
-cv2.imwrite('rotated.png', rotatedImg)
+# filename = '/home/hemal/th/nlp/invoice-extractor/invoice_images/Sample/advert_invoice.jpg'
+# img = cv2.imread(filename)
+# angle = getAngle(img)
+# rotatedImg = rotate_image(img, -angle)
+# cv2.imwrite('rotated.png', rotatedImg)

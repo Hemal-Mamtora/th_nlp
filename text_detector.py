@@ -188,8 +188,8 @@ def main():
 
 	# folders = listdir(path)
 	#print(pdfs)
-
-	get_text(path + 'Sample/','advert_invoice.jpg',write_=False)
+	# get_text(path + 'Sample/','advert_invoice.jpg',write_=False)
+	get_text(os.path.dirname(os.path.realpath(__file__)),'/advert_invoice.jpg',write_=False)
 
 	# for folder in folders:
 	# 	if not os.path.isdir(path + folder):
